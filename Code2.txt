@@ -1,3 +1,7 @@
-Function2
+Function2()
+{
+}
+
+FunctionFromGithub()
 {
 }
